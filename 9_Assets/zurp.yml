@@ -1,0 +1,13 @@
+name: libcoadd
+tagline: Placeholder entry for the zUrp Embedded catalogue.
+slogan: Placeholder
+category: Library
+section: libraries
+status: wip
+
+description:
+  - Placeholder entry. The real description comes later.
+
+poster: poster.png
+posterAlt: Placeholder poster of libcoadd, an empty frame on a plain grid.
+accent: '#4a6fa5'

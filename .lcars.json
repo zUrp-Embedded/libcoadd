@@ -1,0 +1,8 @@
+{
+  "_schema": "lcars/declaration",
+  "declared_at": "2026-11-23",
+  "declared_by": "starfleet",
+  "justification": "Carte choisie explicitement par l'humain : code.",
+  "pipeline_default": "code",
+  "upstream": "https://github.com/zUrp-Embedded/libcoadd"
+}
